@@ -20,14 +20,16 @@ Visualização de vendas por lote e status de check-ins;
 Exportação de relatórios por evento e público-alvo;
 Cadastro de promotores (comissionamento por venda);
 Integração com plataformas de pagamento (ex: Stripe, Mercado Pago).
-2. Aplicativo para o Público (Mobile):
+
+3. Aplicativo para o Público (Mobile):
 Listagem de eventos em destaque e por categoria;
 Detalhes do evento com imagem, localização, artistas/palestrantes;
 Compra de ingresso com opção de cupom de desconto;
 Geração automática de ingresso com QR Code;
 Histórico de ingressos comprados;
 Notificações de alteração de evento ou promoções.
-3. Aplicativo para Check-in no Evento (Mobile ou Web):
+
+5. Aplicativo para Check-in no Evento (Mobile ou Web):
 Acesso exclusivo para equipe de entrada;
 Leitura de QR Code do ingresso via câmera;
 Validação online e offline com marcação de check-in;
