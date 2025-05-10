@@ -1,6 +1,4 @@
 # app-ticketing
-Aplicativo proposto na disciplina de desenvolvimento para dispositivo móveis, UNESC.
-
 
 CASE PARA DESENVOLVIMENTO DE SISTEMA: GESTÃO DE EVENTOS E INGRESSOS (TICKETING)
 Contexto: Uma produtora de eventos culturais está em fase de expansão e deseja desenvolver uma plataforma digital para gerenciar a venda de ingressos, organização de eventos e controle de acesso. A ideia é oferecer um sistema robusto, tanto para o público final quanto para os organizadores de eventos, capaz de lidar com diferentes tipos de ingressos, pagamentos e validação no local.
